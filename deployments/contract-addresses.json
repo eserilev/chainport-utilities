@@ -1,0 +1,20 @@
+{
+    "ropsten": {
+        "ChainportUtils": "0x8BC2f025F11D218223fEc11693E8efA9982e36d1"
+    },
+    "mumbai": {
+        "ChainportUtils": "0x956e4a3f33ca87f4a5763547536D7DB4Ec5D2798"
+    },
+    "fuji": {
+        "ChainportUtils": "0x956e4a3f33ca87f4a5763547536D7DB4Ec5D2798"
+    },
+    "moonbase-alpha": {
+        "ChainportUtils": "0x956e4a3f33ca87f4a5763547536D7DB4Ec5D2798"
+    },
+    "bsc-test": {
+        "ChainportUtils": "0x956e4a3f33ca87f4a5763547536D7DB4Ec5D2798"
+    },
+    "ftm-test": {
+        "ChainportUtils": "0x956e4a3f33ca87f4a5763547536D7DB4Ec5D2798"
+    }
+}
